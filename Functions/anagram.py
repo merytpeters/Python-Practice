@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Check that words are anagrams. An anagram of an word
-is one formed by rearranging the letters of the words"""
+is one formed by rearranging the letters of the word"""
 
 
 def anagramChecker(word1, word2):
